@@ -1,0 +1,21 @@
+{
+  "name": "BookList_APP_Full_Stack_WebDev_Course",
+  "version": "1.0.0",
+  "description": "Book list App tutorial from Full Stack Web Development Course",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckypig3400/BookList_APP_Full_Stack_WebDev_Course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckypig3400/BookList_APP_Full_Stack_WebDev_Course/issues"
+  },
+  "homepage": "https://github.com/luckypig3400/BookList_APP_Full_Stack_WebDev_Course#readme"
+}
