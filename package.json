@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/luckypig3400/BookList_APP_Full_Stack_WebDev_Course/issues"
   },
-  "homepage": "https://github.com/luckypig3400/BookList_APP_Full_Stack_WebDev_Course#readme"
+  "homepage": "https://github.com/luckypig3400/BookList_APP_Full_Stack_WebDev_Course#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.1"
+  }
 }
