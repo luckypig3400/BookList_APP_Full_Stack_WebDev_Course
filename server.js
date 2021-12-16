@@ -1,0 +1,14 @@
+const express = require('express');
+const app = express();
+const expressLayouts = require('express-ejs-layouts');
+
+app.set('view engine', 'ejs');
+app.set('views', __dirname + './views');
+app.set('layout', 'layouts/layout');
+app.use(expressLayouts);
+app.use(express.static('public'));
+
+app.listen(process.env.PORT || 3000);
+
+// 進度:5:28
+// https://www.youtube.com/watch?v=qj2oDkvc4dQ&list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM&index=6
