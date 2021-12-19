@@ -37,4 +37,9 @@ npm i --save-dev nodemon
 "devStart": "nodemon server.js"
 則可以npm run devStart來執行對應的指令
 
+#### router設定注意事項
++ 若有多個router建議分開文件寫，放在routes/底下
++ 記得把寫好的router文件export(module.exports = router)
++ 記得引入並使用該router
+
 ### 2. 
