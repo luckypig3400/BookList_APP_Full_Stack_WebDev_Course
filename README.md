@@ -42,4 +42,16 @@ npm i --save-dev nodemon
 + 記得把寫好的router文件export(module.exports = router)
 + 記得引入並使用該router
 
+#### views小筆記
++ 要渲染EJS頁面需使用res.render()而非res.send()
++ 以layout.ejs作為模板並使用<%- %>會把不同route對應的EJS文件內容都引入進來
+
+#### MongoDB
++ 首先安裝MongoDB
++ 再來安裝套件
+```
+npm install mongoose
+```
+
+
 ### 2. 
