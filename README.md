@@ -62,4 +62,10 @@ npm i --save-dev dotenv
 + 我已經使用github desktop內建的git來追蹤修訂版本
 + git安裝設定與教學可[參考此](https://www.youtube.com/watch?v=IHaTbJPdB-s)
 
+#### 連結Repo並部署至Heroku 這邊紀錄大致操作步驟
++ https://youtu.be/qj2oDkvc4dQ?list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM&t=1152
++ Create new app on Heroku
++ Install the Heroku CLI
++ Push git repo to Heroku remote
+
 ### 2. 
