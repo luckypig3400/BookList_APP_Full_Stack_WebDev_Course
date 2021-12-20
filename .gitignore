@@ -56,6 +56,7 @@ typings/
 
 # dotenv environment variables file
 # .env
+# Kyle Said:Don't track this file because .env file may contain sensitive info that we don't want to share with other people
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache

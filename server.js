@@ -25,6 +25,3 @@ db.once('open', () => console.log("Connected to Mongo DB~!"));
 app.use('/', indexRouter);
 
 app.listen(process.env.PORT || 3000);
-
-// 進度:5:28
-// https://www.youtube.com/watch?v=qj2oDkvc4dQ&list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM&index=6

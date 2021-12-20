@@ -47,11 +47,19 @@ npm i --save-dev nodemon
 + 以layout.ejs作為模板並使用<%- %>會把不同route對應的EJS文件內容都引入進來
 
 #### MongoDB
-+ 首先安裝MongoDB
++ 首先安裝MongoDB[(可參考此影片)](https://www.youtube.com/watch?v=wcx3f0eUiAw)
 + 再來安裝套件
 ```
 npm install mongoose
 ```
++ 設定DB連線參數時會使用到.env檔案 記得新增該檔案與安裝套件
+```
+npm i --save-dev dotenv
+(僅在開發專案時使用，安裝為開發套件)
+```
 
+#### 專案初步構建完成 加入git init &設定gitignore
++ 我已經使用github desktop內建的git來追蹤修訂版本
++ git安裝設定與教學可[參考此](https://www.youtube.com/watch?v=IHaTbJPdB-s)
 
 ### 2. 
