@@ -67,5 +67,17 @@ npm i --save-dev dotenv
 + Create new app on Heroku
 + Install the Heroku CLI
 + Push git repo to Heroku remote
++ Set-up ENV vairables in Heroku app Settings page
++ 註冊MongoDB Atlas免費的線上資料庫平台
++ 新版的MongoDB Atlas似乎需要先Create Orginization & Create Project
++ 然後進入剛建立的專案後Create Database(或稱為Cluster)接著選免費方案
++ 可以在建立Cluster的頁面更改Cluster Name或是用預設值也可以
++ 進到建立好的Cluster設定頁面建立DB使用者
+![](https://i.imgur.com/AuVkIHz.png)
++ 接著到左上角Database頁籤點選Connect並點選Choose a connection method
+![](https://i.imgur.com/ZblaGYc.png)
+![](https://i.imgur.com/uqtq99K.png)
++ 接著選Connect Your Application 後面的操作介面一樣就著影片操作即可
++ 補充:MongoDB Atlas可能需要設定允許所有IP的連線(較方便)或是特定IP
 
 ### 2. 
