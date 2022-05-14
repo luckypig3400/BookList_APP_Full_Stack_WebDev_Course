@@ -5,7 +5,8 @@
 
 ### [Full Stack Web Development Course](https://youtube.com/playlist?list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM)
 
-
+## 目前進度(下方影片9分06秒)
++ https://www.youtube.com/watch?v=esy4nRuShl8&list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM
 
 ## Notes for each Video
 
